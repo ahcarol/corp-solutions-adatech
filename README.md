@@ -60,6 +60,28 @@ Identificar oportunidades de aumentar a diversidade na Corp Solutions. Desenvolv
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/design/cKHiq1k1tccqogyfbWZVY1/Apresenta%C3%A7%C3%A3o-CorpSolutions?node-id=1-2&t=wQrvRmvwZ4w2Kdjc-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+
+  ## 📜 Libs e recursos 
+
+- Vite
+- TypeScript
+- React
+- ReactDOM
+- React Router DOM
+- React Slick
+- Slick Carousel
+- Axios
+- Zod
+
+
+## 📈 Organização do Projeto 
+
+<p>O projeto tem uma organização em módulos com a seguiinte arquitetura:</p>
+<b> ./src/modules: </b> emos as pastas referentes a cada módulo do sistema e nelas são contidos os custom hooks e components exclussivos,</p>
+<p>/src/components:</b>  são armazenados os components universais ou que podem ser compartilhados por diferentes módulos</p>
+<p>./src/providers:</b>  São armazenados os providers de contexto da aplicação</p>
+<p>./src/services:</b>  São armazenados os serviços de requisição a APIs externas</p>
+<p>./src/clients:</b>  Abstrações do consumo de services</p>
   
 
 ## Grupo 💻
