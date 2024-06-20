@@ -1,12 +1,29 @@
-# CORP SOLUTIONS 
+<h1 align="center"> Corp Solutions - Projeto Hackathon </h1>
 
 
-# # Repositório criado para atividade do AdaHack 
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-grupo">Grupo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
 
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
+
+<br>
+
+<p align="center">
+  <img alt="projeto-hackathon" src=".github\preview.png" width="100%">
+</p>
+
+## 👾 Repositório criado para atividade do AdaHack  
 
 ```
  Clone este repositório
- git clone (https://github.com/renannevesc94/corp-solutions.git)
+ git clone (https://github.com/ahcarol/corp-solutions-adatech.git)
 
  Acesse a pasta do projeto no seu terminal/cmd
  cd corp-solution
@@ -18,42 +35,34 @@
  npm run dev
 ```
 
-## Instruções de login
+## 🤓 Instruções de login 
 <p><b>Usuário:</b> usuario@corpsolution.com
 <p></p><b>Password:</b> 12345678
 
+## 🚀 Tecnologias
 
-## Tecnologias e Ferramentas Utilizadas 🕹️
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" width="130px"> |  <img src="https://static-00.iconduck.com/assets.00/typescript-plain-icon-256x256-ypojgpyj.png" width="130px"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="130px"> | 
 |----------|----------|----------| 
 |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="130px"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="130px">| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="130px"> 
 
+## 💻 Projeto
 
-## Libs e recursos 📜
+O objetivo principal deste Hackathon é criar estratégias e desenvolver soluções inovadoras que ajudem a Corp Solutions a aumentar a diversidade e a inclusão em sua equipe. Os participantes deverão criar soluções que promovam uma cultura organizacional mais diversificada e inclusiva, utilizando tecnologia e criatividade para enfrentar esse desafio. O hackathon visa encontrar ideias e projetos que possam ser implementados dentro de ambientes corporativos para impulsionar a diversidade e a inclusão no ambiente de trabalho, contribuindo para o crescimento dessa causa dentro do mercado de trabalho.
 
-- Vite
-- TypeScript
-- React
-- ReactDOM
-- React Router DOM
-- React Slick
-- Slick Carousel
-- Axios
-- Zod
+<b>Objetivos do case:</b>
+Identificar oportunidades de aumentar a diversidade na Corp Solutions. Desenvolver soluções criativas, aplicáveis e inovadoras para promover a inclusão e equidade no ambiente de trabalho. Contribuir para a construção de uma cultura organizacional diversa, inclusiva e sustentável.
+
+- [Acesse o projeto finalizado, online](https://ahcarol.github.io/projeto-links/)
 
 
-## Organização do Projeto 📈
+## 🔖 Layout
 
-<p>O projeto tem uma organização em módulos com a seguiinte arquitetura:</p>
-<b> ./src/modules: </b> emos as pastas referentes a cada módulo do sistema e nelas são contidos os custom hooks e components exclussivos,</p>
-<p>/src/components:</b>  são armazenados os components universais ou que podem ser compartilhados por diferentes módulos</p>
-<p>./src/providers:</b>  São armazenados os providers de contexto da aplicação</p>
-<p>./src/services:</b>  São armazenados os serviços de requisição a APIs externas</p>
-<p>./src/clients:</b>  Abstrações do consumo de services</p>
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
   
 
-## Integrantes do Grupo 💻
+## Grupo 💻
 
 - [Carolina Dutra](https://github.com/ahcarol)👩🏻‍💻;
 - [Erick Garcia](https://github.com/erickggarcia)👨🏻‍💻;
