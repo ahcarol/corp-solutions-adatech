@@ -23,7 +23,7 @@
 
 ```
  Clone este repositório
- git clone (https://github.com/renannevesc94/corp-solutions.git)
+ git clone (https://github.com/ahcarol/corp-solutions-adatech.git)
 
  Acesse a pasta do projeto no seu terminal/cmd
  cd corp-solution
