@@ -59,7 +59,7 @@ Identificar oportunidades de aumentar a diversidade na Corp Solutions. Desenvolv
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/design/cKHiq1k1tccqogyfbWZVY1/Apresenta%C3%A7%C3%A3o-CorpSolutions?node-id=1-2&t=wQrvRmvwZ4w2Kdjc-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
   
 
 ## Grupo 💻
