@@ -84,12 +84,12 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 <p>./src/clients:</b>  Abstrações do consumo de services</p>
   
 
-## Grupo 💻
+## 👩🏻‍💻 Grupo 
 
-- [Carolina Dutra](https://github.com/ahcarol)👩🏻‍💻;
-- [Erick Garcia](https://github.com/erickggarcia)👨🏻‍💻;
-- [Gabi Padilha](https://github.com/GabiPadilhaf)👩🏻‍💻;
-- [Luana Portella](https://github.com/portellaluana)👩🏻‍💻;
-- [Lucas de Grande](https://github.com/lucasdegrande95)👨🏻‍💻;
-- [Patrick Diniz](https://github.com/PatrickDniz)👨🏻‍💻;
-- [Renan Neves](https://github.com/renannevesc94)👨🏻‍💻;
+- [Carolina Dutra](https://github.com/ahcarol);
+- [Erick Garcia](https://github.com/erickggarcia);
+- [Gabi Padilha](https://github.com/GabiPadilhaf);
+- [Luana Portella](https://github.com/portellaluana);
+- [Lucas de Grande](https://github.com/lucasdegrande95);
+- [Patrick Diniz](https://github.com/PatrickDniz);
+- [Renan Neves](https://github.com/renannevesc94);
