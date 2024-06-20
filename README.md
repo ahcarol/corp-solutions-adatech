@@ -16,7 +16,7 @@
 <br>
 
 <p align="center">
-  <img alt="projeto-hackathon" src=".github\preview.png" width="100%">
+  <img alt="projeto-hackathon" src=".github/preview.png" width="100%">
 </p>
 
 ## 👾 Repositório criado para atividade do AdaHack  
