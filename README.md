@@ -54,7 +54,7 @@ O objetivo principal deste Hackathon é criar estratégias e desenvolver soluç�
 <b>Objetivos do case:</b>
 Identificar oportunidades de aumentar a diversidade na Corp Solutions. Desenvolver soluções criativas, aplicáveis e inovadoras para promover a inclusão e equidade no ambiente de trabalho. Contribuir para a construção de uma cultura organizacional diversa, inclusiva e sustentável.
 
-- [Acesse o projeto finalizado, online](https://ahcarol.github.io/projeto-links/)
+- [Acesse o projeto finalizado, online](https://corp-solutions-three.vercel.app/)
 
 
 ## 🔖 Layout
